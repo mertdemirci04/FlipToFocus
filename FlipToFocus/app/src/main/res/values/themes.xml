@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose kullandığımız için Android'in eski View Activity temasına ihtiyacımız yok -->
+    <!-- Ancak Activity başlatılırken hata vermemesi için boş bir tema tanımlıyoruz -->
+    <style name="Theme.FlipToFocus" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

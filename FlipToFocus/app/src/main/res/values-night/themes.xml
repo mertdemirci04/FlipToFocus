@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hatayı gidermek için Material3 YERİNE standart Android temasını kullanıyoruz -->
+    <style name="Theme.FlipToFocus" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
