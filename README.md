@@ -4,6 +4,7 @@ Flip your phone to start focusing.
 
 FlipToFocus is a modern focus productivity app built entirely with Jetpack Compose. It combines Timer, Pomodoro, and Stopwatch modes with sensor-based interaction and smooth animated UI to create a distraction-free and immersive focus experience.
 
+
 ✨ Features
 
 ⏱ Timer Mode – Customizable countdown sessions
@@ -24,6 +25,8 @@ FlipToFocus is a modern focus productivity app built entirely with Jetpack Compo
 
 🌙 Distraction-Free Design – UI adapts to focus state
 
+
+
 🛠 Tech Stack
 
 Kotlin
@@ -37,6 +40,8 @@ SensorManager (Accelerometer)
 State-driven UI architecture
 
 Material 3 Components
+
+
 
 🧠 Architecture Overview
 
@@ -54,6 +59,8 @@ Animated state transitions using Compose APIs
 
 Modular composables for each UI section
 
+
+
 🚀 How It Works
 
 Select a mode (Timer / Pomodoro / Stopwatch)
@@ -65,6 +72,7 @@ Flip your phone face down to start focusing
 The UI transitions into a minimal, distraction-free state
 
 On completion or interruption, state updates dynamically
+
 
 
 🔮 Future Improvements
